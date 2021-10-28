@@ -28,7 +28,7 @@ long long solution(long long w, long long h) {
         else
             i++;
     }
-    
+     
 
     answer = w*h-(w+h-t);
     return answer;
