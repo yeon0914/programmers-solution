@@ -25,3 +25,4 @@ function solution(record) {
     
     return answer2;
 }
+ 
