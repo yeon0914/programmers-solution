@@ -21,3 +21,4 @@ function solution(n) {
         answer=answer.slice(1,);
     return answer;
 }
+ 
