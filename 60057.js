@@ -39,14 +39,6 @@ function solution(s) {
              tempresult=tempresult+(s.length-j)+i;
         }
 
-//         tempresult=tempresult+(s.length-j)+i;
-//         if(count!==1){
-//             tempresult=tempresult+count.toString().length;
-//             str=str+count;
-//         }
-//         str=str+s.slice(j,s.length);
-//         return str;
-        
         if(i===1)
             answer=tempresult;
         else{
