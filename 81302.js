@@ -85,6 +85,6 @@ function solve(place, table){
                 }
             }
         }
-    }
+    } 
     return 1;
 }
