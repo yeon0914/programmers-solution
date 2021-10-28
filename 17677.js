@@ -44,4 +44,4 @@ function solution(str1, str2) {
     union= union-inter;
     console.log(union, inter)
     return parseInt((inter*65536/union));
-}
+} 
