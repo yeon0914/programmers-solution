@@ -58,5 +58,5 @@ function solution(rows, columns, queries) {
         
         answer[i]=small;
     }
-    return answer;
+    return answer; 
 }
