@@ -35,24 +35,4 @@ function solution(s){
         return 1;
     else
         return 0;
-    
-//     var temp=0;
-//     for(var i=0; i+1<s.length; i++){
-//         if(s[i]===s[i+1]){
-//             var j=1;
-//             while((i-j>=0)&&(i+j+1<s.length)){
-//                 if(s[i-j]===s[i+1+j]){
-//                     j++;
-//                 }
-//                 else{
-//                     break;
-//                 }
-//             }
-//             s=s.slice(0,i-j+1)+s.slice(i+j+1);
-//             i=i-j-1;
-//         } 
-//     }
-//     if(s.length==0)
-//         answer=1;
-    // return answer;
-}
+} 
