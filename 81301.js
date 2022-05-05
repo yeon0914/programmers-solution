@@ -55,5 +55,5 @@ function solution(s) {
         }
     }
     
-    return answer;
+    return answer; 
 }
