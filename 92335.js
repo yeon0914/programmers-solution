@@ -8,7 +8,7 @@ function solution(n, k) {
         }
         var b = n-a*k;
         n=a;        
-        num=b+num;
+        num=b+num; 
     }
     
     var prime = num.split('0');
